@@ -1,0 +1,10 @@
+truck, for sale, 50
+microwave, wanted, 60
+truck, wanted, 60
+penguin, for sale, 60
+alex, for sale, 50
+microwave, for sale, 40
+computer, for sale, 400
+penguin, wanted, 50
+blaz, wanted, 420
+elevator, wanted, 60
